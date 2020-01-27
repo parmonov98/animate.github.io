@@ -1,7 +1,5 @@
-# animate.github.io
-
-
-<h2>Page scrollAnimator in VanillaJS</h2>
+# scrollAnimator
+ Page scrollAnimator in VanillaJS
 
 <h3>Example</h3>
 
